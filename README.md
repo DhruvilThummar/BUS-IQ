@@ -3,7 +3,7 @@
 **A real-time public transit monitoring and optimization dashboard**
 
 <p align="center">
-  <img src="[assets/dashboard-preview.png](https://github.com/DhruvilThummar/BUS-IQ/blob/1899bfb4e1fc32e37aae833963bb163646f72129/image/DashBord.jpg)" alt="BUSIQ Dashboard Screenshot" width="85%">
+  <img src="[[assets/dashboard-preview.png](https://github.com/DhruvilThummar/BUS-IQ/blob/1899bfb4e1fc32e37aae833963bb163646f72129/image/DashBord.jpg)](https://github.com/DhruvilThummar/BUS-IQ/blob/e4c4da4acdd9229f0d4328d9e5cd57ad3ea339e6/image/DashBord.jpg)" alt="BUSIQ Dashboard Screenshot" width="85%">
 </p>
 
 ---
