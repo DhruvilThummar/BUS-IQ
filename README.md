@@ -182,5 +182,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 <!-- Footer -->
 <div align="center">
   <p>Made with ❤️ for Smart Transit Systems • <strong>The Dev Force</strong></p>
-  <p><small>Hackathon project — good luck with your submission!</small></p>
 </div>
