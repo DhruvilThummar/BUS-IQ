@@ -28,24 +28,6 @@ Include your hackathon name, submission link, or mentor details here if you want
 ![Stars](https://img.shields.io/github/stars/yourusername/busiq-transit-dashboard?style=social)
 
 ---
-## 📊 Performance AnaLytics
-
-**Optimization**
-<p align="center">
-  <img src="image/Optimization.jpg" alt="BUSIQ Optimization Screenshot" width="85%">
-</p>
-
-**Forecast**
-<p align="center">
-  <img src="image/Forcast.jpg" alt="BUSIQ Forecast Screenshot" width="85%">
-</p>
-
-**Demographics**
-<p align="center">
-  <img src="image/Demographics.jpg" alt="BUSIQ Demographics Screenshot" width="85%">
-</p>
-
----
 ## 📖 Introduction
 
 **BUSIQ** is a web-based dashboard built to revolutionize public transit management. It enables operators to:
@@ -79,6 +61,24 @@ With **data-driven insights, live monitoring, and AI-powered optimization**, BUS
 
 - HTML / CSS • Tailwind CSS • JavaScript
 - Leaflet.js (maps) • Chart.js (graphs) • Socket.IO Client
+
+---
+## 📊 Performance AnaLytics
+
+**Optimization**
+<p align="center">
+  <img src="image/Optimization.jpg" alt="BUSIQ Optimization Screenshot" width="85%">
+</p>
+
+**Forecast**
+<p align="center">
+  <img src="image/Forcast.jpg" alt="BUSIQ Forecast Screenshot" width="85%">
+</p>
+
+**Demographics**
+<p align="center">
+  <img src="image/Demographics.jpg" alt="BUSIQ Demographics Screenshot" width="85%">
+</p>
 
 ---
 
