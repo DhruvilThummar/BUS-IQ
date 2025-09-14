@@ -37,7 +37,7 @@ Include your hackathon name, submission link, or mentor details here if you want
 
 **Forecast**
 <p align="center">
-  <img src="image/Forecast.jpg" alt="BUSIQ Forecast Screenshot" width="85%">
+  <img src="image/Forcast.jpg" alt="BUSIQ Forecast Screenshot" width="85%">
 </p>
 
 **Demographics**
